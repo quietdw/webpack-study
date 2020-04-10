@@ -1,0 +1,7 @@
+.hello {
+  color: red;
+  width: 300px;
+  border: solid 1px red;
+  overflow: hidden;
+  background: url('./icon.png') no-repeat;
+}
